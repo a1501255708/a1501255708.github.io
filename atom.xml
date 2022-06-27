@@ -6,7 +6,7 @@
   <link href="http://nhhn.life/atom.xml" rel="self"/>
   
   <link href="http://nhhn.life/"/>
-  <updated>2022-06-27T14:34:55.671Z</updated>
+  <updated>2022-06-27T15:31:53.342Z</updated>
   <id>http://nhhn.life/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typescript简单排序</title>
+    <link href="http://nhhn.life/2022/06/27/Typescript%E7%AE%80%E5%8D%95%E6%8E%92%E5%BA%8F/"/>
+    <id>http://nhhn.life/2022/06/27/Typescript%E7%AE%80%E5%8D%95%E6%8E%92%E5%BA%8F/</id>
+    <published>2022-06-27T15:23:29.188Z</published>
+    <updated>2022-06-27T15:31:53.342Z</updated>
+    
+    
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;利用&lt;code&gt;nodemon&lt;/code&gt;和&lt;code&gt;concurrently&lt;/code&gt;编译并执行ts的demo &lt;figure class=&quot;highlight ts&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// package.json - scripts&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;string&quot;&gt;&amp;quot;start:build&amp;quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&amp;quot;tsc -w&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;string&quot;&gt;&amp;quot;start:run&amp;quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&amp;quot;nodemon build/index.js&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&amp;quot;start&amp;quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&amp;quot;concurrently npm:start:*&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;类型保护&lt;ul&gt;
+&lt;li&gt;原始值&lt;code&gt;number&lt;/code&gt; &lt;code&gt;string&lt;/code&gt; &lt;code&gt;boolean&lt;/code&gt; &lt;code&gt;symbol&lt;/code&gt;使用&lt;code&gt;typeof&lt;/code&gt;判断类型&lt;/li&gt;
+&lt;li&gt;其他类型使用&lt;code&gt;instanceof&lt;/code&gt;判断&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;简单链表&lt;/li&gt;
+&lt;li&gt;接口和抽象类的使用和异同&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="http://nhhn.life/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://nhhn.life/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="代码" scheme="http://nhhn.life/tags/%E4%BB%A3%E7%A0%81/"/>
+    
+    <category term="Typescript" scheme="http://nhhn.life/tags/Typescript/"/>
+    
+  </entry>
   
   <entry>
     <title>About Me</title>
