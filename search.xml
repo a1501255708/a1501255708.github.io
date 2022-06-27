@@ -1,46 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[About Me]]></title>
-      <url>/2022/06/27/about/</url>
-      <content type="html"><![CDATA[<blockquote>
+<search>
+  <entry>
+    <title>起点</title>
+    <url>/2022/06/27/%E8%B5%B7%E7%82%B9/</url>
+    <content><![CDATA[<p>要来咯！～</p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2022/06/27/about/</url>
+    <content><![CDATA[<blockquote>
 <p>🤔</p>
 </blockquote>
 <p>姓名：聂浩<br>现居：重庆<br>GitHub: <a href="https://github.com/a1501255708">NieHao</a><br>QQ: 1501255708<br>微信: a1501255708</p>
 <span id="more"></span>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[起点]]></title>
-      <url>/2022/06/27/%E8%B5%B7%E7%82%B9/</url>
-      <content type="html"><![CDATA[<p>要来咯！～</p>
-]]></content>
-      
-        <categories>
-            
-            <category> 其他 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 其他 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
 </search>
