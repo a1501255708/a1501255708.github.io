@@ -6,7 +6,9 @@
 
     <head>
       <meta charset="utf-8" />
-        
+       
+      <meta name="keywords" content="生活,工作,博客,猫" />
+       
       <meta name="description" content="年年今夜，月华如练，长是人千里" />
       
       <meta
@@ -29,6 +31,16 @@
       <script src="https://cdn.staticfile.org/pace/1.2.4/pace.min.js"></script>
        
  
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?f6bcc10f1ef49b460e47fc75e0aca246";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
       <link
         rel="stylesheet"
@@ -89,7 +101,7 @@
   <blockquote>
 <p>🤔</p>
 </blockquote>
-<p>姓名：聂浩<br>现居：重庆<br>GitHub: <a target="_blank" rel="noopener" href="https://github.com/a1501255708">NieHao</a><br>QQ: <a target="_blank" rel="noopener" href="http://wpa.qq.com/msgrd?v=3&uin=1501255708&site=qq&menu=yes">1501255708</a><br>微信: a1501255708</p>
+<p>姓名：聂浩<br>现居：重庆<br>GitHub: <a target="_blank" rel="noopener" href="https://github.com/a1501255708">NieHao</a><br>QQ: 1501255708<br>微信: a1501255708</p>
 <span id="more"></span> 
       <!-- reward -->
       
@@ -176,6 +188,53 @@
   </nav>
 
    
+<!-- valine评论 -->
+<div id="vcomments-box">
+  <div id="vcomments"></div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="https://cdn.staticfile.org/valine/1.4.16/Valine.min.js"></script>
+<script>
+  new Valine({
+    el: "#vcomments",
+    app_id: "hhjfHDSiIWJSe0Ca0p9lmf4K-gzGzoHsz",
+    app_key: "6GsVR9l71z9pTN0hpWOGmA3b",
+    path: window.location.pathname,
+    avatar: "monsterid",
+    placeholder: "给我的文章加点评论吧~",
+    recordIP: true,
+  });
+  const infoEle = document.querySelector("#vcomments .info");
+  if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+    infoEle.childNodes.forEach(function (item) {
+      item.parentNode.removeChild(item);
+    });
+  }
+</script>
+<style>
+  #vcomments-box {
+    padding: 5px 30px;
+  }
+
+  @media screen and (max-width: 800px) {
+    #vcomments-box {
+      padding: 5px 0px;
+    }
+  }
+
+  #vcomments-box #vcomments {
+    background-color: #fff;
+  }
+
+  .v .vlist .vcard .vh {
+    padding-right: 20px;
+  }
+
+  .v .vlist .vcard {
+    padding-left: 10px;
+  }
+</style>
+
  
    
     
@@ -195,7 +254,7 @@
     <ul>
       <li>
         Copyrights &copy;
-        2021-2022
+        2022
         <i class="ri-heart-fill heart_icon"></i> 浩
       </li>
     </ul>
