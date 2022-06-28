@@ -92,13 +92,6 @@
 
   
   <url>
-    <loc>http://nhhn.life/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://nhhn.life/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -120,14 +113,21 @@
   </url>
   
   <url>
-    <loc>http://nhhn.life/tags/%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://nhhn.life/tags/private/</loc>
     <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://nhhn.life/tags/private/</loc>
+    <loc>http://nhhn.life/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhhn.life/tags/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
