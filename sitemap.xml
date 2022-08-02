@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nhhn.life/2022/08/02/%E8%A7%86%E9%A2%91%E5%88%86%E7%89%87%E4%B8%8A%E4%BC%A0Demo/</loc>
+    
+    <lastmod>2022-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://nhhn.life/photos/data.json</loc>
     
     <lastmod>2022-06-28</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://nhhn.life/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,42 +102,56 @@
   
   <url>
     <loc>http://nhhn.life/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://nhhn.life/tags/%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://nhhn.life/tags/Typescript/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://nhhn.life/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <loc>http://nhhn.life/tags/NodeJs/</loc>
+    <lastmod>2022-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhhn.life/tags/JavaScript/</loc>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://nhhn.life/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhhn.life/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://nhhn.life/tags/private/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -137,14 +160,14 @@
   
   <url>
     <loc>http://nhhn.life/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://nhhn.life/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
